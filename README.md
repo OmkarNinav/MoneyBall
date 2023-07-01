@@ -57,7 +57,8 @@ We need to add three more statistics that were used in Moneyball! These are:
 <ul>
 <li>Batting Average
   
-![image](https://github.com/OmkarNinav/MoneyBall/assets/127706918/2cb7e488-6718-4440-a2e3-a5ab6d4fb53c)
+![image](https://github.com/OmkarNinav/MoneyBall/assets/127706918/8b105715-c312-4e73-bfb5-437d42509ae4)
+
 </li>
 <li>On Base Percentage
 
