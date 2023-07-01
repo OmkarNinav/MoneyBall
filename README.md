@@ -33,7 +33,7 @@ By re-evaluating the strategies that produce wins on the field, the 2002 Athleti
 dollars in salary, were competitive with larger market teams such as the New York Yankees, who spent over US$125
 million in payroll that same season.
 
-![salary](https://github.com/OmkarNinav/MoneyBall/assets/127706918/f2b96b8b-aabf-4998-979e-ac9e42547501.png)
+![salary](https://github.com/OmkarNinav/MoneyBall/assets/127706918/b34cd475-9629-46c7-b5b0-f4ad2c0a2ce7)
 
 
 Because of the team's smaller revenues, Oakland is forced to find players undervalued by the market, and their
@@ -59,17 +59,15 @@ We need to add three more statistics that were used in Moneyball! These are:
     
 ![Batting Average](https://github.com/OmkarNinav/MoneyBall/assets/127706918/a6ee4cef-4035-498a-b402-66b6769400db)
 
-  
-![Batting Average](https://github.com/OmkarNinav/MoneyBall/assets/127706918/a7ef62f4-12d8-44a6-a77e-0853443b53d7.png)
-
 </li>
 <li>On Base Percentage
+    
+![On Base Percentage](https://github.com/OmkarNinav/MoneyBall/assets/127706918/918aabc4-2d57-4680-8ad1-df711591bcb3)
 
-![On Base Percentage](https://github.com/OmkarNinav/MoneyBall/assets/127706918/2633faae-f8f8-493f-aaea-92f8b8687d0a.png)
 </li>
 <li>Slugging Percentage
-  
-![Slugging Percentage](https://github.com/OmkarNinav/MoneyBall/assets/127706918/18964658-1919-48e9-9dcf-e3b3909ffd0f.png)
+    
+![Slugging Percentage](https://github.com/OmkarNinav/MoneyBall/assets/127706918/77c1f78c-8bdf-419d-a7c9-17bd079e48eb)
 </li>
 </ul>
 
@@ -82,5 +80,5 @@ Now we have all the information we need! Here is our final task - Find Replaceme
 
 ## OBP vs Salary Graph
 
-![Plot](https://github.com/OmkarNinav/MoneyBall/assets/127706918/2fb1c179-d274-4cfa-a920-27e91279c66e.png)
+![Plot](https://github.com/OmkarNinav/MoneyBall/assets/127706918/a725f412-b3e1-4822-9c49-ea3fc036dfb7)
 
