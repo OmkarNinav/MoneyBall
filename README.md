@@ -56,6 +56,9 @@ useful source for baseball statistics.
 We need to add three more statistics that were used in Moneyball! These are:
 <ul>
 <li>Batting Average
+    
+![Batting Average](https://github.com/OmkarNinav/MoneyBall/assets/127706918/a6ee4cef-4035-498a-b402-66b6769400db)
+
   
 ![Batting Average](https://github.com/OmkarNinav/MoneyBall/assets/127706918/a7ef62f4-12d8-44a6-a77e-0853443b53d7.png)
 
